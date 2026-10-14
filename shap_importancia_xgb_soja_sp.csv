@@ -1,0 +1,13 @@
+,|SHAP| médio (sc/ha),correlação valor x SHAP,direção
+rend_hist3_kg_ha,3.5771558,-0.9465746652009707,↓ valor alto corrige para baixo
+lon,1.5274624,0.6204472470379349,↑ valor alto corrige para cima
+log_area_ha,1.2751017,0.8641982756752445,↑ valor alto corrige para cima
+chuva_jan_fev_mm,1.206456,0.7896406043705043,↑ valor alto corrige para cima
+lat,0.8613317,-0.15304660173505097,não monotônica / fraca
+tmax_media_jan_fev_c,0.7920314,-0.4609081231188495,↓ valor alto corrige para baixo
+radiacao_media_out_mar,0.7300205,0.6210848564662682,↑ valor alto corrige para cima
+dias_acima_32_floracao,0.41460213,-0.6064094615199742,↓ valor alto corrige para baixo
+tmin_media_out_mar_c,0.36984143,-0.1475931537570379,não monotônica / fraca
+chuva_out_mar_mm,0.27892,-0.3187935075284934,↓ valor alto corrige para baixo
+max_dias_secos_seguidos,0.2652477,-0.7403681239671669,↓ valor alto corrige para baixo
+Ano,0.22369662,0.10372847772526515,não monotônica / fraca
